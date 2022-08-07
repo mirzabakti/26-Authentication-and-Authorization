@@ -1,0 +1,25 @@
+{
+  "name": "26-authentication-and-authorization",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mirzabakti/26-Authentication-and-Authorization.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mirzabakti/26-Authentication-and-Authorization/issues"
+  },
+  "homepage": "https://github.com/mirzabakti/26-Authentication-and-Authorization#readme",
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "express": "^4.18.1",
+    "express-session": "^1.17.3"
+  }
+}
